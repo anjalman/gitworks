@@ -4,3 +4,10 @@
 
 >git add-A [ading all untraked file to staging area]
 
+>git commit-m[ to commit added file to local respository]
+
+>git clone[to take exact cpy of a file from remote repository to local workplace]
+
+>git pull[to take changes from remote repository to local workplace]
+
+>git push[ to sent changes from local repository to remote repository]
