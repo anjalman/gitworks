@@ -11,3 +11,10 @@
 >git pull[to take changes from remote repository to local workplace]
 
 >git push[ to sent changes from local repository to remote repository]
+
+>git config --list[ to list configaration]
+
+> git cofig --global user.name"username"[to set username]
+
+>git cofig --global user.email"useremail"[ to set email id]
+
